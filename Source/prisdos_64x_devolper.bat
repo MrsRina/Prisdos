@@ -1,0 +1,1 @@
+python Data/Scripts/MAP_EDITOR_CORDENADAS.py
