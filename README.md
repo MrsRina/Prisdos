@@ -57,9 +57,10 @@ No_named (GIT_HUB)
 No_named (GIT_HUB)
 Craig #5789 (Discord)
 
-** Outros ** 
+** Criadores do banner ** 
 No_named (GIT_HUB)
 Luskas #4470 (Discord)
 
+** Criadores do banner ** 
 No_named (GIT_HUB)
 ImperorSkeletal #7305 (Discord)
