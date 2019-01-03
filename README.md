@@ -56,3 +56,10 @@ No_named (GIT_HUB)
 ** Dreitor de Som e Musica do Jogo **
 No_named (GIT_HUB)
 Craig #5789 (Discord)
+
+** Outros ** 
+No_named (GIT_HUB)
+Luskas #4470 (Discord)
+
+No_named (GIT_HUB)
+ImperorSkeletal #7305 (Discord)
